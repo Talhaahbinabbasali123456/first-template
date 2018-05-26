@@ -1,0 +1,133 @@
+body {
+    background-image: url(../images/myimages/back-7.png);
+    background-size: cover;
+    /*border:  0px 5px solid white;*/
+}
+#header {
+	background: url("../images/myimages/back-7-edit.png") repeat scroll center center / cover;
+    /*height: 500px;*/
+    border-bottom: 1px solid white;
+}
+.my-about {
+    background: url("../images/myimages/back-5.jpg")!important;
+    background-size: cover;
+    color: white;
+    border-bottom: 1px solid white;
+    opacity: 0.8;
+
+
+}
+.remove-back {
+    background-color: #f7f7f700!important;
+    color: white!important;
+    border-bottom: 1px solid white;
+    /*opacity: 0.5;*/
+
+}
+.header-content h1 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    /*color: #572121;*/
+    color: white;
+    text-shadow: 2px 2px #572121;
+    font-family: 'Kaushan Script', cursive;
+}
+.header-content p {
+    font-size: 15px;
+    letter-spacing: 3px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    /*color: #572121;*/
+    color: white;
+    text-shadow: 1px 1px #572121;
+    font-weight: bold;    
+    font-family: 'Kaushan Script', cursive;
+
+}
+.color {
+    color: white!important;
+
+}
+.shadow {
+      text-shadow: 1px 1px white;
+}
+.child-a > img {
+    /*opacity: 0.5;*/
+    /*width: 100%;*/
+}
+.header-content .list-social li i {
+    font-size: 13px;
+    /*color: #b93939;*/
+    color: white;
+    padding: 0px 5px;
+    font-size: 20px;
+}
+.header-content .list-social li i:hover {
+    /*color: #572121;*/
+    color: goldenrod;
+    transition: 2s;
+}
+.my-h1 {
+    color: #b8a07e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.font-style-1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+}
+.my-main-nav {
+    /*background-color: #b8a07e;*/
+    border-bottom: 2px solid white;
+    background-image: url(../images/myimages/back-7.png);
+}
+.nav-color {
+    /*color: #572121;*/
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    /*font-family: 'Kaushan Script', cursive;*/
+}
+.nav-color:hover {
+    color: goldenrod;
+    transition: 2s;
+}
+.my {
+    color: white;
+}
+.our-edit-img > img {
+    opacity: 0.5;
+    transition: 1s;
+    border: 1px solid white;
+    border-radius:5px;
+
+
+}
+.our-edit-img > img:hover {
+    transition: 1s;
+    opacity: 1;
+    border-radius: 0px;
+    border: 1px solid white;
+}
+.my-border {
+    border-bottom: 1px solid white;
+}
+.seperate-section {
+    /*height: 300px;*/
+    /*overflow-y: scroll;*/
+}
+.our-section-edit {
+    padding: 20px!important;
+    align-items: center;
+    justify-content: center;
+}
+.para-color {
+    /*font-weight: bold;*/
+    color: white!important;
+}
